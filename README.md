@@ -1,6 +1,6 @@
 # Downtown Dharma DC
 
-Website for Downtown Dharma (DD), a weekly local sangha in Washington D.C.
+Website for Downtown Dharma, a weekly local sangha in Washington D.C.
 
 ## About
 
