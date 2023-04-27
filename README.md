@@ -8,4 +8,4 @@ Downtown Dharma meets every Sunday at 7pm EST at [Yoga District on 14th](https:/
 
 ## Getting There
 
-The nearest metro station is the [U Street Red Line Stop](https://goo.gl/maps/QtDT1dvPUdfJkXFM7).
+The nearest metro station is the [U Street Green/Yellow Line Stop](https://goo.gl/maps/QtDT1dvPUdfJkXFM7).
