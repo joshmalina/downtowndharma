@@ -2,6 +2,7 @@
 
 Website for Downtown Dharma, a weekly local sangha in Washington D.C.
 
+## About
 
 Downtown Dharma meets every Sunday at 7pm EST at [Yoga District on 14th](https://goo.gl/maps/mnCS12etGDEZ4PhR9). You can also join us online on [Zoom](https://zoom.us/j/466237117?pwd=cGxHaTJlTVhBdldVSk8weDZuSW5udz09).
 
@@ -31,7 +32,7 @@ See what we're up to [here](https://calendar.google.com/calendar/u/0?cid=MDIzYTM
 
 ## Mission Statement
 
-Downtown Dharma is cool.
+[put something here]
 
 ## Book Club
 
@@ -42,3 +43,12 @@ the listserv to learn about upcoming events.
 
 Our list serv is currently how most folks find out about what's happening each week
 at Downtown Dharma, as well as our book club, and other information. [Sign up here](https://forms.gle/5YgkTYnhZYgQCFco7).
+
+## Contact
+
+For questions about this website, contact the web master [here](mailto:joshuamalina@gmail.com).
+
+## Links
+
+- [IMCW](https://imcw.org/)
+- [Dharma Gates](https://www.dharma-gates.org/)
