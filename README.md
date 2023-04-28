@@ -32,7 +32,7 @@ See what we're up to [here](https://calendar.google.com/calendar/u/0?cid=MDIzYTM
 
 ## Mission Statement
 
-[put something here]
+Our mission is to foster spiritual community and growth in DC.
 
 ## Book Club
 
