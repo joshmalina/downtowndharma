@@ -52,3 +52,7 @@ For questions about this website, contact the web master [here](mailto:joshuamal
 
 - [IMCW](https://imcw.org/)
 - [Dharma Gates](https://www.dharma-gates.org/)
+
+## Accessibility 
+
+Please note that our spot on 14th is at the top of two sets of stairs, with no elevator access.
