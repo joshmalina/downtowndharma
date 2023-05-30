@@ -29,6 +29,7 @@ The nearest metro station is the [U Street Green/Yellow Line Stop](https://goo.g
 
 See what we're up to [here](https://calendar.google.com/calendar/u/0?cid=MDIzYTMwYWRmYmNkMDhiYTgwYTE1YzlkMDJiMmM3YzFhYzI0YjliNDU4ODVhMTBjODNlNmU1NTllZmFiZWZlNkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=America%2FNew_York&src=MDIzYTMwYWRmYmNkMDhiYTgwYTE1YzlkMDJiMmM3YzFhYzI0YjliNDU4ODVhMTBjODNlNmU1NTllZmFiZWZlNkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23795548" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Mission Statement
 
