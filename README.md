@@ -6,7 +6,7 @@ Downtown Dharma meets every Sunday at 7pm EST at [Yoga District on 14th](https:/
 
 See what we're up to [here](https://calendar.google.com/calendar/u/0?cid=aW5mb0Bkb3dudG93bmRoYXJtYWRjLm9yZw).
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=America%2FNew_York&mode=MONTH&showTitle=1&showNav=1&showPrint=1&showTabs=1&showCalendars=1&src=aW5mb0Bkb3dudG93bmRoYXJtYWRjLm9yZw&color=%23795548" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&src=aW5mb0Bkb3dudG93bmRoYXJtYWRjLm9yZw&color=%23795548" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## How it works
 
