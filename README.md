@@ -51,6 +51,7 @@ For questions about this website, contact the web master [here](mailto:joshuamal
 
 ## Links
 
+- [Our Discord Server](https://discord.gg/Rf4CxQjG)
 - [IMCW](https://imcw.org/)
 - [Dharma Gates](https://www.dharma-gates.org/)
 
