@@ -1,10 +1,12 @@
 # Downtown Dharma DC
 
-Website for Downtown Dharma, a weekly local sangha in Washington D.C.
-
-## About
-
 Downtown Dharma meets every Sunday at 7pm EST at [Yoga District on 14th](https://goo.gl/maps/mnCS12etGDEZ4PhR9). You can also join us online on [Zoom](https://zoom.us/j/466237117?pwd=cGxHaTJlTVhBdldVSk8weDZuSW5udz09).
+
+## Calendar
+
+See what we're up to [here](https://calendar.google.com/calendar/u/0?cid=aW5mb0Bkb3dudG93bmRoYXJtYWRjLm9yZw).
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=America%2FNew_York&mode=AGENDA&src=aW5mb0Bkb3dudG93bmRoYXJtYWRjLm9yZw&color=%23795548" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## How it works
 
@@ -23,13 +25,6 @@ get dinner
 ## Getting There
 
 The nearest metro station is the [U Street Green/Yellow Line Stop](https://goo.gl/maps/QtDT1dvPUdfJkXFM7).
-
-
-## Calendar
-
-See what we're up to [here](https://calendar.google.com/calendar/u/0?cid=aW5mb0Bkb3dudG93bmRoYXJtYWRjLm9yZw).
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=America%2FNew_York&mode=MONTH&showTitle=1&showNav=1&showPrint=1&showTabs=1&showCalendars=1&src=aW5mb0Bkb3dudG93bmRoYXJtYWRjLm9yZw&color=%23795548" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Mission Statement
 
