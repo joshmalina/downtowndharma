@@ -1,6 +1,6 @@
 # Downtown Dharma DC
 
-Downtown Dharma meets every Sunday at 7pm EST at [Yoga District on 14th](https://goo.gl/maps/mnCS12etGDEZ4PhR9). You can also join us online on [Zoom](https://zoom.us/j/466237117?pwd=cGxHaTJlTVhBdldVSk8weDZuSW5udz09).
+Downtown Dharma meets every Sunday at 7pm EST at [Yoga District on 14th](https://goo.gl/maps/mnCS12etGDEZ4PhR9). You can also join us online on [Zoom](https://zoom.us/j/466237117?pwd=cGxHaTJlTVhBdldVSk8weDZuSW5udz09). Get your frequently asked questions answered [here](https://www.downtowndharmadc.org/faq/).
 
 ## Calendar
 
@@ -25,6 +25,10 @@ get dinner
 ## Getting There
 
 The nearest metro station is the [U Street Green/Yellow Line Stop](https://goo.gl/maps/QtDT1dvPUdfJkXFM7).
+
+## Frequently Asked Questions
+
+Answered [here!](https://www.downtowndharmadc.org/faq/)
 
 ## Mission Statement
 
