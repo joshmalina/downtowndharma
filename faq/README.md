@@ -28,7 +28,7 @@
 
 [How do I sign up for the email listserv, and/or join the Discord server?](#how-do-i-sign-up-for-the-email-listserv,-and/or-join-the-discord-server?)
 
-# What is Downtown Dharma?
+## What is Downtown Dharma?
 
 Rooted in the teachings of the Buddha, this welcoming community supports meditation practitioners in developing a steady, peaceful and open heart. Together, we seek to cultivate profound freedom—a freedom that equips each of us to meet the world’s pains with wisdom and compassion.
 
@@ -36,7 +36,7 @@ We meet in person and on Zoom every Sunday evening. Our gatherings typically inc
 
 All offerings are featured on our sangha (meditation community) [website](http://www.downtowndharmadc.org/), and are open to people of all identities, spiritual backgrounds, and levels of experience with meditation.
 
-# What’s the history of this community?
+## What’s the history of this community?
 
 In 2004, Downtown Dharma launched as a weekly mindfulness class on Sunday evenings at [All Souls Unitarian Church](https://all-souls.org/), in the DC neighborhood of Columbia Heights. It grew out of discussions between Peter Mosher, an All Souls member, and [Hugh Byrne](https://hugh-byrne.com/), a local meditation teacher. In the early years of the class, Hugh taught insight meditation while Peter (since deceased) led a Qigong practice. Over time additional teachers with the [Insight Meditation Community of Washington](https://imcw.org/) (IMCW) were added to the schedule to support the Sunday offering.
 
@@ -44,13 +44,13 @@ In the 2010s, Downtown Dharma’s weekly gatherings changed locations from All S
 
 After convening exclusively on Zoom for 18 months due to COVID, Downtown Dharma resumed in-person gatherings in September 2021. Community members now join both in-person at Yoga District and online each week.
 
-# Who are the lead teachers?
+## Who are the lead teachers?
 
 [Travis Spencer](https://imcw.org/teacher/?speakerId=154) and [Kristin Barker](https://imcw.org/teacher/?speakerId=140) are the sangha’s two lead teachers. Both are affiliate teachers with IMCW. Like all IMCW teachers and facilitators, they are volunteers who are supported by dana (generosity) from community members.
 
 Guest facilitators step in frequently to guide on Sunday evenings, including Shawn Shafner, Mark Stone and others.
 
-# What’s the relationship between Downtown Dharma, IMCW, and Yoga District?
+## What’s the relationship between Downtown Dharma, IMCW, and Yoga District?
 
 Downtown Dharma is affiliated with IMCW (the Insight Meditation Community of Washington). Founded by Tara Brach, IMCW is a local nonprofit that harnesses Buddhist insight (vipassana) teachings to support individual and collective awakening from suffering, through the cultivation of a wise mind and loving heart.
 
@@ -60,7 +60,7 @@ Since 2021, Downtown Dharma’s gatherings on Sunday evenings have been generous
 
 Together, our communities are committed to making meditation practice, wisdom teachings, and spiritual community widely accessible in the heart of DC.
 
-# I’ve never attended before on Sunday. What should I expect?
+## I’ve never attended before on Sunday. What should I expect?
 
 Newcomers are always welcome. If it’s your first time joining in person, please sign up in advance via the Yoga District [website](https://www.yogadistrict.com/schedule/). Also, plan to arrive 10 minutes before class so that a volunteer can greet you, orient you to the studio space, and answer any questions you might have. 
 
@@ -76,7 +76,7 @@ Please look at the [calendar](http://www.downtowndharmadc.org/) to see what you 
 
 If you’re not able to join in person, you’re welcome to connect by Zoom using [this link](https://zoom.us/j/466237117?pwd=cGxHaTJlTVhBdldVSk8weDZuSW5udz09).
 
-# Can you talk about parking and accessibility?
+## Can you talk about parking and accessibility?
 
 Yoga District’s [14th Street studio](https://www.yogadistrict.com/studios/14th-street/) is on the 3rd floor of a converted rowhouse, up two flights of stairs. The building does not have an elevator.
 
@@ -92,19 +92,19 @@ All Sunday night gatherings are accessible by Zoom; you can join using [this lin
 
 If you have any questions about accessibility, please contact [Travis Spencer](mailto:tspencer@iaam-dc.org).
 
-# How do I offer dana (generosity)? 
+## How do I offer dana (generosity)? 
 
 All teachings are offered freely in this community - you are not required to pay to take part. That said, your generosity (*dana* in the language of the Buddhist teachings) supports this sangha and its teachers and facilitators to help them continue their work. It is a beautiful way of expressing gratitude. Our sangha’s Venmo account is [@DowntownDharma](https://account.venmo.com/u/downtowndharma). If you would like your donation to be directed to a specific teacher or facilitator, please make this note when donating.
 
 If you’d prefer to donate by credit card, PayPal, Zelle, or a physical check, that works too; instructions are found on the [IMCW site](https://imcw.org/giving/).
 
-# How can I volunteer? 
+## How can I volunteer? 
 
 We eagerly welcome your generosity in the form of volunteering—it’s a great way to get to know your fellow community members. Each week, volunteers help to set up the Yoga District space, greet guests, and make sure that technology runs smoothly. If you’re interested in supporting our sangha in this way, please email [Kavya Sekar](mailto:kavsekar9@gmail.com). 
 
 There are also frequent peer-led evenings, in which a volunteer facilitates meditation and community discussion. If you’d like to facilitate an upcoming Sunday, or want to propose or organize another activity related to meditation and mindfulness, please email [Josh Malina](mailto:joshuamalina@gmail.com).
 
-# How is dana (generosity) used to support this community?
+## How is dana (generosity) used to support this community?
 
 Donations via our Venmo account ([@DowntownDharma](https://account.venmo.com/u/downtowndharma)) are mainly used to support the livelihood of the meditation teachers and facilitators who dedicate themselves to sharing the practice of meditation and teachings of the Buddha. 
 
@@ -122,7 +122,7 @@ The date varies each month, but these potluck-style gatherings typically take pl
 
 In addition, community members occasionally self-organize retreat weekends, volunteer events, and other social gatherings. These peer-led events are communicated via the email listserv and on Discord.
 
-# How do I learn to meditate?
+## How do I learn to meditate?
 
 We are fortunate to live in an age with so many many apps, books and resources to help people learn how to meditate. Still, there’s nothing like the energy and support of sitting with other community members to bolster an emerging meditation practice. Newcomers are always welcome on Sunday evenings.
 
@@ -138,7 +138,7 @@ Also, based on your own learning preferences, you may find some of these resourc
   - Radical Acceptance by Tara Brach
 - **Apps:** Well-known apps for beginners include Ten Percent Happier and Headspace (both require a paid subscription). Insight Timer is a free app with guided meditations, a very popular timer feature and more. Waking Up is by author and podcast host Sam Harris, and helpful for exploring the philosophy and science of meditation.
 
-# How do I become a member of this community?
+## How do I become a member of this community?
 
 Unlike some other spiritual traditions (including other lineages of Buddhism), there is no formal ritual or process for becoming a member of our sangha. Nor is there any financial commitment you’re expected to make. You are invited to participate in our community at the level and frequency that speaks to you, based on your own inner wisdom.
 
@@ -149,10 +149,10 @@ In addition to attending regularly on Sunday nights, those who are excited to de
 - Joining a [Spiritual Friends group](https://imcw.org/communities/spiritual-friends-km-groups/) (*Kalyana Mitta*) with IMCW
 - Organizing and/or hosting events & programming for our community
 
-# Why is it called Downtown Dharma?
+## Why is it called Downtown Dharma?
 
 The Sanskrit word dharma (*dhamma* in Pali) has various meanings. In Buddhism, it’s most often used as a synonym for the teachings of the Buddha. More generally, the term can mean “the truth” or “the way things are”. As a community, Downtown Dharma honors and promotes the liberatory teachings and practices offered by the Buddha, which point the way to greater ease, peace and freedom—even amidst the stresses of living and working in downtown DC.
 
-# How do I sign up for the email listserv, and/or join the Discord server?
+## How do I sign up for the email listserv, and/or join the Discord server?
 
 You can sign up for Downtown Dharma’s email listserv (Google Group) [here](https://docs.google.com/forms/d/e/1FAIpQLSfVw58eEpX6RLRgHcvT_3_msKZ3wFEvjRWl7VEJD2HDO0xaVw/viewform). And you can join our Discord server [here](https://discord.gg/EfaUM8M5). (If the Discord link has expired, please email [Josh Malina](http://joshuamalina@gmail.com) for a new one.)
