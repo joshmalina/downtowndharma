@@ -1,18 +1,31 @@
 # Downtown Dharma FAQs
 
 [What is Downtown Dharma?](#what-is-downtown-dharma?)
+
 [What’s the history of this community?](#what’s-the-history-of-this-community?)
+
 [Who are the lead teachers?](#who-are-the-lead-teachers?)
+
 [What’s the relationship between Downtown Dharma, IMCW, and Yoga District?](#what’s-the-relationship-between-downtown-dharma,-imcw,-and-yoga-district?)
+
 [I’ve never attended before on Sunday. What should I expect?](#i’ve-never-attended-before-on-sunday.-what-should-i-expect?)
+
 [Can you talk about parking and accessibility?](#can-you-talk-about-parking-and-accessibility?)
-[How do I offer dana (generosity)?](#how-do-i-offer-dana(generosity)
+
+[How do I offer dana (generosity)?](#how-do-i-offer-dana(generosity))
+
 [How can I volunteer](#how-can-i-volunteer?)
+
 [How is dana (generosity) used to support this community?](#how-is-dana-(generosity)-used-to-support-this-community?)
+
 [What else does this community do together (beyond Sunday evenings)?](#what-else-does-this-community-do-together-(beyond-sunday-evenings)?)
+
 [How do I learn to meditate?](#how-do-i-learn-to-meditate?)
+
 [How do I become a member of this community?](#how-do-i-become-a-member-of-this-community?)
+
 [Why is it called Downtown Dharma?](#why-is-it-called-downtown-dharma?)
+
 [How do I sign up for the email listserv, and/or join the Discord server?](#how-do-i-sign-up-for-the-email-listserv,-and/or-join-the-discord-server?)
 
 # What is Downtown Dharma?
