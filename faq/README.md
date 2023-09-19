@@ -6,9 +6,9 @@
 
 [Who are the lead teachers?](#who-are-the-lead-teachers)
 
-[What’s the relationship between Downtown Dharma, IMCW, and Yoga District?](#whats-the-relationship-between-downtown-dharma,-imcw,-and-yoga-district)
+[What’s the relationship between Downtown Dharma, IMCW, and Yoga District?](#whats-the-relationship-between-downtown-dharma-imcw-and-yoga-district)
 
-[I’ve never attended before on Sunday. What should I expect?](#ive-never-attended-before-on-sunday.-what-should-i-expect)
+[I’ve never attended before on Sunday. What should I expect?](#ive-never-attended-before-on-sunday-what-should-i-expect)
 
 [Can you talk about parking and accessibility?](#can-you-talk-about-parking-and-accessibility)
 
@@ -26,7 +26,7 @@
 
 [Why is it called Downtown Dharma?](#why-is-it-called-downtown-dharma)
 
-[How do I sign up for the email listserv, and/or join the Discord server?](#how-do-i-sign-up-for-the-email-listserv,-and/or-join-the-discord-server)
+[How do I sign up for the email listserv, and/or join the Discord server?](#how-do-i-sign-up-for-the-email-listserv-and-or-join-the-discord-server)
 
 # What is Downtown Dharma?
 
