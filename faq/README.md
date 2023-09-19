@@ -1,4 +1,4 @@
-# Downtown Dharma FAQs
+# Frequently Asked Questions
 
 [What is Downtown Dharma?](#what-is-downtown-dharma?)
 
