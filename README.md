@@ -50,7 +50,7 @@ For questions about this website, contact the web master [here](mailto:joshuamal
 
 ## Links
 
-- [Our Discord Server](https://discord.gg/Rf4CxQjG)
+- [Our Discord Server](https://discord.gg/8wdjDyjtgD)
 - [IMCW](https://imcw.org/)
 - [Dharma Gates](https://www.dharma-gates.org/)
 
