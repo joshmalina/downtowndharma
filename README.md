@@ -32,7 +32,7 @@ Answered [here!](https://www.downtowndharmadc.org/faq/)
 
 ## Mission Statement
 
-Our mission is to foster spiritual community and growth in DC.
+We are a meditation community, rooted in Buddhism and open to wisdom from across traditions, offering a safe haven for curious minds and loving hearts in downtown DC. We are community-driven and volunteer-led, supporting each other through life's challenges with kindness and friendship. Modeling a generous, inclusive alternative to intolerance and isolation in our society, we meditate and gather to meet all of our experience with greater wisdom, balance, and love.
 
 ## Book Club
 
