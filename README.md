@@ -42,7 +42,20 @@ the listserv to learn about upcoming events.
 ## Listserv Signup
 
 Our list serv is currently how most folks find out about what's happening each week
-at Downtown Dharma, as well as our book club, and other information. [Sign up here](https://forms.gle/5YgkTYnhZYgQCFco7).
+at Downtown Dharma, as well as our book club, and other information. To sign up, complete the following two steps:
+
+1. Send an email to [downtowndharma+subscribe@googlegroups.com](mailto:downtowndharma+subscribe@googlegroups.com). You will receive a response like this:
+
+<img width="508" alt="Screen Shot 2024-03-20 at 10 29 11 AM" src="https://github.com/joshmalina/downtowndharma/assets/5384924/3a695ea5-3a84-4057-9709-2086bd20554b">
+
+2. Respond to that email. You will receive a response like this, which means you are in!
+   
+<img width="520" alt="Screen Shot 2024-03-20 at 10 29 48 AM" src="https://github.com/joshmalina/downtowndharma/assets/5384924/fd4a1d1a-a1a8-4332-8cf8-d8cb00c4cc6b">
+
+**You can write anything in the subject or body of these emails, or leave them blank! It does not matter**
+
+
+[Sign up here](https://forms.gle/5YgkTYnhZYgQCFco7).
 
 ## Contact
 
