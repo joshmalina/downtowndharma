@@ -41,7 +41,7 @@ the listserv to learn about upcoming events.
 
 ## Listserv Signup
 
-Our list serv is currently how most folks find out about what's happening each week
+Our listserv is currently how most folks find out about what's happening each week
 at Downtown Dharma, as well as our book club, and other information. To sign up, complete the following two steps:
 
 1. Send an email to [downtowndharma+subscribe@googlegroups.com](mailto:downtowndharma+subscribe@googlegroups.com). You will receive a response like this:
