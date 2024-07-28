@@ -18,8 +18,7 @@ have a few different flavours, including:
 - **Peer led sessions**: more informal, but students from the community will lead the ~30 minute meditation,
   may or may not offer a subsequent teaching, and then will facilitate peer connection. If you would like to sign up
   to lead a peer sit, please submit [this google form](https://forms.gle/eajirLyH8zQc7neq5).
-- **Sit & Chat**: the least formal of all three -- someone gently guides a ~30 minute sit, and then we go 
-get dinner
+- **Sit & Chat**: the least formal of all three -- someone gently guides a ~30 minute sit, and then we transition into social time, usually through a structured activity. When the weather is nice we'll head to Temperance Alley Garden. 
   
 
 ## Getting There
