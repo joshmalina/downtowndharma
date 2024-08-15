@@ -80,3 +80,4 @@ Please note that our spot on 14th is at the top of two sets of stairs, with no e
 ## Security
 
 Some of the Yoga District locations have exeperienced theft. Please be thoughtful about where you leave your valuables when attending Sangha.
+![Downtown Dharma logo](DDS.png)
