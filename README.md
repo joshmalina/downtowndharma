@@ -36,6 +36,7 @@ We are a meditation community, rooted in Buddhism and open to wisdom from across
 ## Sit. Move. Connect. Awakening in Community
 
 A Weekend Retreat with Downtown Dharma | Sep 20-22, 2024
+
 Give yourself a break from daily life, and join us for a [two-night residential retreat](https://imcw.org/event/?eventId=1519) to deepen your mindfulness practice and open to our natural capacity to be present, loving and spacious. We will connect with ourselves and others via seated meditation, mindful movement, and relational practice. Conceived and designed by the community of Downtown Dharma, all are welcome and encouraged to attend.
 
   - When: September 20-22, 2024 (Friday to Sunday)
