@@ -155,4 +155,4 @@ The Sanskrit word dharma (*dhamma* in Pali) has various meanings. In Buddhism, i
 
 # How do I sign up for the email listserv, and/or join the Discord server?
 
-You can sign up for Downtown Dharma’s email listserv (Google Group) [here](https://docs.google.com/forms/d/e/1FAIpQLSfVw58eEpX6RLRgHcvT_3_msKZ3wFEvjRWl7VEJD2HDO0xaVw/viewform). And you can join our Discord server [here](https://discord.gg/8wdjDyjtgD). (If the Discord link has expired, please email [Josh Malina](http://joshuamalina@gmail.com) for a new one.)
+You can sign up for Downtown Dharma’s email listserv (Google Group) [here](https://www.downtowndharmadc.org/#listserv-signup).
