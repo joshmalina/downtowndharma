@@ -70,7 +70,7 @@ For questions about this website, contact the web master [here](mailto:joshuamal
 
 ## Links
 
-- [Our Discord Server](https://discord.gg/8wdjDyjtgD)
+- [Our WhatsApp Group](https://chat.whatsapp.com/C4WLkOtbx2aCsSeUQhBh13)
 - [IMCW](https://imcw.org/)
 - [Dharma Gates](https://www.dharma-gates.org/)
 
