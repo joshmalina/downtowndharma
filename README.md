@@ -66,7 +66,7 @@ at Downtown Dharma, as well as our book club, and other information. To sign up,
 
 ## Contact
 
-For questions about this website, contact the web master [here](mailto:joshuamalina@gmail.com). For questions about Downtown Dharma in general, contact us [here](mailto:info@downtowndharmadc.org).
+For questions about Downtown Dharma in general, contact us [here](mailto:amygellatly@gmail.com).
 
 ## Links
 
