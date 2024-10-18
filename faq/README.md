@@ -88,7 +88,7 @@ Masks are currently optional for those joining in person.
 
 Most participants choose to sit on the floor, but folding chairs are available for those who prefer them. If you don’t see one upon entering, please let a volunteer know and they will grab one for you!
 
-For anyone with a fragrance sensitivity, we have folding chairs and cushions next to windows we can open for proximate airflow. 
+For anyone with a fragrance sensitivity, please feel free to [contact us](downtowndharma@googlegroups.com) beforehand or find the greeter volunteer when you arrive. We can help you find appropriate seating for proximate airflow. 
 
 All Sunday night gatherings are accessible by Zoom; you can join using [this link](https://zoom.us/j/466237117?pwd=cGxHaTJlTVhBdldVSk8weDZuSW5udz09).
 
