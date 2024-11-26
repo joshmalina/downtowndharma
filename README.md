@@ -33,17 +33,6 @@ Answered [here!](https://www.downtowndharmadc.org/faq/)
 
 We are a meditation community, rooted in Buddhism and open to wisdom from across traditions, offering a safe haven for curious minds and loving hearts in downtown DC. We are community-driven and volunteer-led, supporting each other through life's challenges with kindness and friendship. Modeling a generous, inclusive alternative to intolerance and isolation in our society, we meditate and gather to meet all of our experience with greater wisdom, balance, and love.
 
-## Sit. Move. Connect. Awakening in Community
-
-A Weekend Retreat with Downtown Dharma | Sep 20-22, 2024
-
-Give yourself a break from daily life, and join us for a [two-night residential retreat](https://imcw.org/event/?eventId=1519) to deepen your mindfulness practice and open to our natural capacity to be present, loving and spacious. We will connect with ourselves and others via seated meditation, mindful movement, and relational practice. Conceived and designed by the community of Downtown Dharma, all are welcome and encouraged to attend.
-
-  - When: September 20-22, 2024 (Friday to Sunday)
-  - Where: [Seven Oaks Retreat Center](https://www.google.com/maps/place/Sevenoaks+Retreat+Center/@38.2962188,-78.3578109,15z/data=!4m2!3m1!1s0x0:0xd2bd715bf6013e91?sa=X&ved=1t:2428&ictx=111) in Madison, VA (about 2 hours from DC)
-  - Lead Teachers: Kristin Barker and Travis Spencer
-  - More Info and To Register: Check out the [IMCW retreat page](https://imcw.org/event/?eventId=1519)
-
 ## Book Club
 
 We have a book club that meets once a month. Sometimes it's a book, sometime's it's not! Join
