@@ -63,6 +63,14 @@ For questions about Downtown Dharma in general, contact us [here](mailto:amygell
 - [IMCW](https://imcw.org/)
 - [Dharma Gates](https://www.dharma-gates.org/)
 
+## Dana
+
+All teachings are offered freely in this community; ou are not required to pay to participate. That said, your generosity (dana in the language of the Buddhist teachings) supports this sangha and its teachers and facilitators to help them continue their work. It is a beautiful way of expressing gratitude. Our sangha’s Venmo account can be accessed through the QR code below. If you would like to direct your donation to a specific teacher or facilitator, please make this note when donating.
+
+<img width="82" alt="Venmo_1" src="https://github.com/user-attachments/assets/7477e5f0-d0f9-4386-8072-402aafb18c10" />
+
+If you’d prefer to donate by credit card, PayPal, Zelle, or a physical check, that works too; instructions are found on the [IMCW site](https://imcw.org/giving/).
+
 ## Accessibility 
 
 Please note that our spot on 14th is at the top of two sets of stairs, with no elevator access.
