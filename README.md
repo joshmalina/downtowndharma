@@ -13,12 +13,12 @@ See what we're up to [here](https://calendar.google.com/calendar/u/0?cid=aW5mb0B
 Every Sunday, folks arrive on 14th street to meditate, connect and learn. Our Sundays
 have a few different flavours, including:
 
-- **Teacher led sessions**: teachers will guide students in a ~30 minute meditation, provide some instruction,
+- **Teacher led sessions**: teachers will guide students in a ~25 minute meditation, provide some instruction,
   and then facilitate peer connection.
-- **Peer led sessions**: more informal, but students from the community will lead the ~30 minute meditation,
-  may or may not offer a subsequent teaching, and then will facilitate peer connection. If you would like to sign up
+- **Peer led sessions**: more informal, but students from the community will lead opening meditation,
+  may offer a subsequent teaching, and then will facilitate peer connection. If you would like to sign up
   to lead a peer sit, please submit [this google form](https://forms.gle/eajirLyH8zQc7neq5).
-- **Special Events**: guest teachers bring unique experiences and perspectives to the community, check out the calendar to see upcoming speakers. 
+- **Insight Dialogue evenings**: Offered every third Sunday of the month, these sessions begin with a brief guided meditation, followed by relational practice in pairs or small groups. Insight dialogue provides a gentle, structured way to bring mindfulness into conversation - helping us stay more present, open and connected with others.
   
 
 ## Getting There
