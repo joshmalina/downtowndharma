@@ -46,7 +46,7 @@ After convening exclusively on Zoom for 18 months due to COVID, Downtown Dharma 
 
 # Who are the lead teachers?
 
-[Travis Spencer](https://imcw.org/teacher/?speakerId=154) and [Kristin Barker](https://imcw.org/teacher/?speakerId=140) are the sangha’s two lead teachers. Both are affiliate teachers with IMCW. Like all IMCW teachers and facilitators, they are volunteers who are supported by dana (generosity) from community members.
+[Kristin Barker](https://imcw.org/teacher/?speakerId=140) is the sangha’s lead teacher and an affiliate teacher with IMCW supported by dana (generosity) from community members.
 
 Guest facilitators step in frequently to guide on Sunday evenings, including Shawn Shafner, Mark Stone and others.
 
@@ -62,15 +62,15 @@ Together, our communities are committed to making meditation practice, wisdom te
 
 # I’ve never attended before on Sunday. What should I expect?
 
-Newcomers are always welcome. If it’s your first time joining in person, please sign up in advance via the Yoga District [website](https://www.yogadistrict.com/schedule/). Also, plan to arrive 10 minutes before class so that a volunteer can greet you, orient you to the studio space, and answer any questions you might have. 
+Newcomers are always welcome. Please sign up in advance via the Yoga District [website](https://www.yogadistrict.com/schedule/). Also, plan to arrive 10 minutes before class so that a volunteer can greet you, orient you to the studio space, and answer any questions you might have. 
 
 Most participants sit on the floor, making themselves comfortable for seated meditation with a combination of yoga blankets and bolsters. For those who prefer, folding chairs are available. 
 
 Our Sunday gatherings always include time for meditation and community building, yet they have a few different flavors. These include:
 
-- **Teacher-led evenings**: teachers guide students in a ~30 minute meditation, share a brief talk on a topic related to mindfulness or Buddhism, and then facilitate peer connection and dialogue.
+- **Teacher-led evenings**: teachers guide students in a ~25 minute meditation, share a brief talk on a topic related to mindfulness or Buddhism, and then facilitate peer connection and dialogue.
 - **Peer-led evenings**: a volunteer from the community leads the seated meditation period, may or may not offer a subsequent teaching, and then facilitates peer connection. If you would like to sign up to lead a peer sit, please put your name down [here](https://forms.gle/eajirLyH8zQc7neq5).
-- **Sit & Dine**: the least formal of all three – a volunteer gently guides a ~30 minute sit, and then we go get dinner nearby. Sit & Dine typically happens on the third Sunday of each month.
+- **Insight Dialogue evenings**: offered on the third Sunday of each month, these sessions begin with a brief guided meditation and teaching, followed by relational mindfulness practice in pairs or small groups. Insight Dialogue provides a gentle, structured way to bring mindfulness into conversation—helping us stay more present, open, and connected with others.
 
 Please look at the [calendar](http://www.downtowndharmadc.org/) to see what you can expect any given Sunday.
 
@@ -104,29 +104,31 @@ If you’d prefer to donate by credit card, PayPal, Zelle, or a physical check, 
 
 We eagerly welcome your generosity in the form of volunteering—it’s a great way to get to know your fellow community members. Each week, volunteers help to set up the Yoga District space, greet guests, and make sure that technology runs smoothly. If you’re interested in supporting our sangha in this way, please email [Kavya Sekar](mailto:kavsekar9@gmail.com). 
 
-There are also frequent peer-led evenings, in which a volunteer facilitates meditation and community discussion. If you’d like to facilitate an upcoming Sunday, or want to propose or organize another activity related to meditation and mindfulness, please email [Josh Malina](mailto:joshuamalina@gmail.com).
+There are also frequent peer-led evenings, in which a volunteer facilitates meditation and community discussion. If you’d like to facilitate an upcoming Sunday, or want to propose or organize another activity related to meditation and mindfulness, please email [Jackie Powell](mailto:jackiesuepowell@gmail.com).
 
 # How is dana (generosity) used to support this community?
 
-Donations via our Venmo account ([@DowntownDharma](https://account.venmo.com/u/downtowndharma)) are mainly used to support the livelihood of the meditation teachers and facilitators who dedicate themselves to sharing the practice of meditation and teachings of the Buddha. 
+Dana—generosity—has sustained Buddhist communities for over 2,500 years. Our sangha continues this tradition, relying on the goodwill of participants to support teachers, facilitators, and community needs.
 
-Here’s how it works in our sangha:
+All donations made to @DowntownDharma on Venmo go into a shared account stewarded by our volunteer board. Here’s how dana is currently used:
+Donations allow us to offer a financial honorarium to each week’s facilitator, whether they’re a regular teacher or a guest. If the teacher is affiliated with IMCW, an additional 10% is forwarded to IMCW to support their administrative work.
+On peer-led evenings, or when facilitators decline compensation, dana stays in the sangha account and helps fund future honoraria for our  teachers, ensuring we can continue to be generous in supporting their livelihood.
 
-- When an IMCW affiliate teacher facilitates on Sunday evening, they receive 90% of all funds donated by community members (minus a small fee from Venmo). The other 10% goes to IMCW to support administrative costs.
-- When other guest teachers facilitate, they get 100% of all donations.
-- When community members offer a peer-led class, 100% donations go into an account that pays for the sangha’s administrative expenses. Most recently, this fund has been used to purchase a new set of microphones and a tablet to support the Zoom experience for those who join online. It’s also used for occasional community events organized by the sangha, such as peer-led retreats.
+When needed, funds are also used for tech upgrades that support a welcoming and accessible experience—for example, microphones that allow Zoom participants to clearly hear those in the studio. Occasionally, dana may also help cover costs for community offerings like peer-led retreats or special events.
+Your generosity supports a spirit of care, connection, and shared responsibility that keeps Downtown Dharma thriving.
+
 
 # What else does this community do together (beyond Sunday evenings)?
 
 We have an informal reading group (or book club) that meets once a month in community members’ homes. We discuss books, articles, podcasts or movies that relate to Buddhism and mindfulness. Unlike a traditional book club, there is no set membership, nor a requirement to participate every month—folks can join when they like, and there is never an obligation to host (though folks are welcome to raise their hand and offer if they are willing). 
 
-The date varies each month, but these potluck-style gatherings typically take place on Saturdays at 6pm. Please join our [email listserv](https://docs.google.com/forms/d/e/1FAIpQLSfVw58eEpX6RLRgHcvT_3_msKZ3wFEvjRWl7VEJD2HDO0xaVw/viewform) and [Discord server](https://discord.gg/EfaUM8M5) to learn what we’ll be discussing next, and when and where we’ll meet.
+The date varies each month, but these potluck-style gatherings typically take place on Saturdays at 6pm. Please join our [email listserv](https://docs.google.com/forms/d/e/1FAIpQLSfVw58eEpX6RLRgHcvT_3_msKZ3wFEvjRWl7VEJD2HDO0xaVw/viewform) and Whatsapp community to learn what we’ll be discussing next, and when and where we’ll meet.
 
-In addition, community members occasionally self-organize retreat weekends, volunteer events, and other social gatherings. These peer-led events are communicated via the email listserv and on Discord.
+In addition, community members occasionally self-organize retreat weekends, volunteer events, and other social gatherings. These peer-led events are communicated via the email listserv and on WhatsApp.
 
 # How do I learn to meditate?
 
-We are fortunate to live in an age with so many many apps, books and resources to help people learn how to meditate. Still, there’s nothing like the energy and support of sitting with other community members to bolster an emerging meditation practice. Newcomers are always welcome on Sunday evenings.
+We are fortunate to live in an age with so many apps, books and resources to help people learn how to meditate. Still, there’s nothing like the energy and support of sitting with other community members to bolster an emerging meditation practice. Newcomers are always welcome on Sunday evenings.
 
 Also, based on your own learning preferences, you may find some of these resources helpful:
 
@@ -142,7 +144,7 @@ Also, based on your own learning preferences, you may find some of these resourc
 
 # How do I become a member of this community?
 
-Unlike some other spiritual traditions (including other lineages of Buddhism), there is no formal ritual or process for becoming a member of our sangha. Nor is there any financial commitment you’re expected to make. You are invited to participate in our community at the level and frequency that speaks to you, based on your own inner wisdom.
+Unlike some other spiritual traditions (including other lineages of Buddhism), there is no formal ritual or process for becoming a member of our sangha. Nor is there a specific financial commitment you’re expected to make. You are invited to participate in our community at the level and frequency that speaks to you, based on your own inner wisdom.
 
 In addition to attending regularly on Sunday nights, those who are excited to deepen their engagement with our community have many options. These include:
 
@@ -155,6 +157,6 @@ In addition to attending regularly on Sunday nights, those who are excited to de
 
 The Sanskrit word dharma (*dhamma* in Pali) has various meanings. In Buddhism, it’s most often used as a synonym for the teachings of the Buddha. More generally, the term can mean “the truth” or “the way things are”. As a community, Downtown Dharma honors and promotes the liberatory teachings and practices offered by the Buddha, which point the way to greater ease, peace and freedom—even amidst the stresses of living and working in downtown DC.
 
-# How do I sign up for the email listserv, and/or join the Discord server?
+# How do I sign up for the email listserv, and/or join the WhatsApp community?
 
-You can sign up for Downtown Dharma’s email listserv (Google Group) [here](https://www.downtowndharmadc.org/#listserv-signup).
+You can sign up for Downtown Dharma’s email listserv (Google Group) [here](https://www.downtowndharmadc.org/#listserv-signup) or the WhatsApp community [here](https://chat.whatsapp.com/C4WLkOtbx2aCsSeUQhBh13). 
