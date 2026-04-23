@@ -59,7 +59,7 @@ For questions about Downtown Dharma in general, contact us [here](mailto:amygell
 
 ## Links
 
-- [Our WhatsApp Group]([https://chat.whatsapp.com/C4WLkOtbx2aCsSeUQhBh13](https://chat.whatsapp.com/E0lixYqOh8SKYEWVyKig5O))
+- [Our WhatsApp Group](https://chat.whatsapp.com/E0lixYqOh8SKYEWVyKig5O)
 - [IMCW](https://imcw.org/)
 - [Dharma Gates](https://www.dharma-gates.org/)
 
