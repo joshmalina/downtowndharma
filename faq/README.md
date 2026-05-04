@@ -159,4 +159,4 @@ The Sanskrit word dharma (*dhamma* in Pali) has various meanings. In Buddhism, i
 
 # How do I sign up for the email listserv, and/or join the WhatsApp community?
 
-You can sign up for Downtown Dharma’s email listserv (Google Group) [here](https://www.downtowndharmadc.org/#listserv-signup) or the WhatsApp community [here](https://chat.whatsapp.com/E0lixYqOh8SKYEWVyKig5O). 
+You can sign up for Downtown Dharma’s email listserv (Google Group) [here](https://www.downtowndharmadc.org/#listserv-signup) or join our WhatsApp Community by emailing [downtowndharmadc@gmail.com](downtowndharmadc@gmail.com) to request access.
