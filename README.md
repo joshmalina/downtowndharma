@@ -59,7 +59,7 @@ For questions about Downtown Dharma in general, contact us [here](mailto:amygell
 
 ## Links
 
-- [Our WhatsApp Group](https://chat.whatsapp.com/E0lixYqOh8SKYEWVyKig5O)
+- Our WhatsApp Community — email [downtowndharmadc@gmail.com](downtowndharmadc@gmail.com) to request access
 - [IMCW](https://imcw.org/)
 - [Dharma Gates](https://www.dharma-gates.org/)
 
