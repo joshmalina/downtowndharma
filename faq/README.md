@@ -24,6 +24,8 @@
 
 [How do I become a member of this community?](#how-do-i-become-a-member-of-this-community)
 
+[Are there smaller groups I can join beyond Sunday nights?](#Are there smaller groups I can join beyond Sunday nights?)
+
 [Why is it called Downtown Dharma?](#why-is-it-called-downtown-dharma)
 
 [How do I sign up for the email listserv, and/or join the Discord server?](#how-do-i-sign-up-for-the-email-listserv-and-or-join-the-discord-server)
@@ -150,8 +152,12 @@ In addition to attending regularly on Sunday nights, those who are excited to de
 
 - Becoming a [volunteer](https://docs.google.com/document/d/1tG72Rs-0lQ_DgE2jae_jmkwbv29wJAkBPVxqzuyCJcA/edit#bookmark=id.bk2ro6rfout)
 - Supporting our teaching team by contributing [dana/generosity](https://docs.google.com/document/d/1tG72Rs-0lQ_DgE2jae_jmkwbv29wJAkBPVxqzuyCJcA/edit#heading=h.t9d5qcdhdt41)
-- Joining a [Spiritual Friends group](https://imcw.org/communities/spiritual-friends-km-groups/) (*Kalyana Mitta*) with IMCW
+- Joining a local small group (KM group). See next question about small groups!
 - Organizing and/or hosting events & programming for our community
+
+# Are there smaller groups I can join beyond Sunday nights?
+
+Many community members meet regularly in smaller groups outside of Sunday nights — sometimes called small groups or KM (Kalyana Mitta) groups. These are peer-led, usually meeting in someone's home, and typically involve sitting together and sharing about practice and life. Most groups are organized by neighborhood, and new groups are always forming. If you're interested in joining a group, or in starting one, [email Vince](mailto: vince.lampone@gmail.com)] and we'll get you connected.
 
 # Why is it called Downtown Dharma?
 
