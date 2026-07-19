@@ -124,7 +124,7 @@ Your generosity supports a spirit of care, connection, and shared responsibility
 
 We have an informal reading group (or book club) that meets once a month in community members’ homes. We discuss books, articles, podcasts or movies that relate to Buddhism and mindfulness. Unlike a traditional book club, there is no set membership, nor a requirement to participate every month—folks can join when they like, and there is never an obligation to host (though folks are welcome to raise their hand and offer if they are willing). 
 
-The date varies each month, but these potluck-style gatherings typically take place on Saturdays at 6pm. Please join our [email listserv](https://docs.google.com/forms/d/e/1FAIpQLSfVw58eEpX6RLRgHcvT_3_msKZ3wFEvjRWl7VEJD2HDO0xaVw/viewform) and Whatsapp community to learn what we’ll be discussing next, and when and where we’ll meet.
+Please join our [email listserv](https://docs.google.com/forms/d/e/1FAIpQLSfVw58eEpX6RLRgHcvT_3_msKZ3wFEvjRWl7VEJD2HDO0xaVw/viewform) and Whatsapp community to learn what we’ll be discussing next, and when and where we’ll meet.
 
 In addition, community members occasionally self-organize retreat weekends, volunteer events, and other social gatherings. These peer-led events are communicated via the email listserv and on WhatsApp.
 
