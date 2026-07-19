@@ -51,7 +51,7 @@ at Downtown Dharma, as well as our book club, and other information. To sign up,
    
 <img width="520" alt="Screen Shot 2024-03-20 at 10 29 48 AM" src="https://github.com/joshmalina/downtowndharma/assets/5384924/fd4a1d1a-a1a8-4332-8cf8-d8cb00c4cc6b">
 
-**You can write anything in the subject or body of these emails, or leave them blank! It does not matter**
+Once you have joined the listserv, you can click [here](https://groups.google.com/g/downtowndharma) to access the archive of all past emails shared with the listserv. 
 
 ## Contact
 
